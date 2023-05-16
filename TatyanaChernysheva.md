@@ -10,6 +10,6 @@ $ git remote add origin https://github.com/tutorialzine/awesome-project.git
 Выполнить запонение информации
 И проверить отправку pull request
 
-
+Сохранить и направить
 
 # Домашнее задание
